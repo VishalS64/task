@@ -1,0 +1,48 @@
+.container-fluid{
+    background-color: #FFF3E5;
+   
+}
+
+
+.btn{
+    background-color: #a35840;
+}
+
+
+/* card section  */
+
+.card{
+    box-shadow: 0 0 30px rgba(0,0,0,0.5);
+    overflow: hidden;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 20px;
+}
+
+.card:hover{
+    border-color: black;
+}
+
+/* link section */
+
+a{
+    color: #FF450D;
+    font-weight: bold;
+}
+
+.img{
+    height: 200px;
+
+}
+
+h1{
+    font-weight: bold;
+}
+
+h5{
+    color: #FF450D;
+}
+  
+.form-container{
+    padding: 6px;
+}
